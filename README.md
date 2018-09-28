@@ -45,7 +45,7 @@ The gang consists of 6 <strong>Ruthless</strong> members, each with their own un
   
 </ul>
 <p>
-  <img src="https://photos.google.com/search/_cAF1QipOz8rhlsptCShbia31qssiWRisxOo8yqLY_Pieter%20Greeff/photo/AF1QipNA0UX2213NhviwLhnlTQXd554vP_VJ8zhtY85I" alt="fokkers" height="150" width="150">
+  <a href="https://photos.google.com/search/_cAF1QipOz8rhlsptCShbia31qssiWRisxOo8yqLY_Pieter%20Greeff/photo/AF1QipNA0UX2213NhviwLhnlTQXd554vP_VJ8zhtY85I"><img src="https://photos.google.com/search/_cAF1QipOz8rhlsptCShbia31qssiWRisxOo8yqLY_Pieter%20Greeff/photo/AF1QipNA0UX2213NhviwLhnlTQXd554vP_VJ8zhtY85I" alt="fokkers" height="150" width="150"> </a>
   </p>
 
 
