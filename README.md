@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<metacharset="utf-8">
+
 <title>Fokkers"</title> </head>
   
 <style>
