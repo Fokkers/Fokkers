@@ -2,7 +2,7 @@
 <html>
 <head>
 <metacharset="utf-8">
-<title>Spin-off of "Project: Travel webpage"</title> </head>
+<title>Fokkers"</title> </head>
   
 <style>
     h1{text-align:center;}
@@ -41,9 +41,6 @@ The gang consists of 5 <strong>Ruthless</strong> members, each with their own un
  <a href="https://photos.google.com/share/AF1QipOkwUqw1TJTSdev-buM_Io4bbmJex1L4XzMgcE4ZcgU29kx8DrnK-q2p0nHpZzbkQ/photo/AF1QipMWnuZFK5QeU4_n_fWGu8ezW-7s99JO7YM4fCeN?key=cjZWV1pRdzk0Nk9wYjZ0YnRHeFpYbVBZc2FYNk53" > <li> Quintin Pearson</a>
    <a href="https://photos.google.com/share/AF1QipOkwUqw1TJTSdev-buM_Io4bbmJex1L4XzMgcE4ZcgU29kx8DrnK-q2p0nHpZzbkQ/photo/AF1QipPQp2tyQZ_6cO6nBQayT3rl18uWJw-jWnunwNbs?key=cjZWV1pRdzk0Nk9wYjZ0YnRHeFpYbVBZc2FYNk53"> <li>Meiring Von Der Fecht</a>
 </ul>
-<p><a href="https://photos.google.com/share/AF1QipOkwUqw1TJTSdev-buM_Io4bbmJex1L4XzMgcE4ZcgU29kx8DrnK-q2p0nHpZzbkQ/photo/AF1QipN2YOeAGHNfae61Ra623M2yYcG5b8caBAEl-WeI?key=cjZWV1pRdzk0Nk9wYjZ0YnRHeFpYbVBZc2FYNk53"> <img src="https://photos.google.com/share/AF1QipOkwUqw1TJTSdev-buM_Io4bbmJex1L4XzMgcE4ZcgU29kx8DrnK-q2p0nHpZzbkQ/photo/AF1QipN2YOeAGHNfae61Ra623M2yYcG5b8caBAEl-WeI?key=cjZWV1pRdzk0Nk9wYjZ0YnRHeFpYbVBZc2FYNk53" alt="GangShit" height="150" width="200" ></a>
-    
-</p>
 
 
 </body>
