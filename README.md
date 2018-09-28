@@ -44,7 +44,9 @@ The gang consists of 6 <strong>Ruthless</strong> members, each with their own un
   <li><a href="https://photos.google.com/search/_cAF1QipOz8rhlsptCShbia31qssiWRisxOo8yqLY_Pieter%20Greeff/photo/AF1QipO3Z89xvv_OhLEj3hitemyENLGXX_v6ZIlnGqcY"> Armando Viviers</li> </a>
   
 </ul>
-<img src="https://photos.google.com/search/_cAF1QipOz8rhlsptCShbia31qssiWRisxOo8yqLY_Pieter%20Greeff/photo/AF1QipNA0UX2213NhviwLhnlTQXd554vP_VJ8zhtY85I" alt="fokkers" height="150" width="150">
+<p>
+  <img src="https://photos.google.com/search/_cAF1QipOz8rhlsptCShbia31qssiWRisxOo8yqLY_Pieter%20Greeff/photo/AF1QipNA0UX2213NhviwLhnlTQXd554vP_VJ8zhtY85I" alt="fokkers" height="150" width="150">
+  </p>
 
 
 </body>
